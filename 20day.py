@@ -1,5 +1,4 @@
 
-
 set1={}
 set2={2,3,4,5,"Shroog","Shroog",2}
 print(set1)
