@@ -4,7 +4,6 @@ set1={}
 set2={2,3,4,5,"Shroog","Shroog",2}
 print(set1)
 
-
 for x in set2:
 	print(x)
 
