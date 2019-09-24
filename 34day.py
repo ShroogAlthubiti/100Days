@@ -6,8 +6,8 @@ my_function(name)
 
 def multiply (num):
 	return 5*num
-print(muliply(5))
-print(muliply(6))
+print(multiply(5))
+print(multiply(6))
 
 def child(child1,child2,child3):
 	print("the youngest child is",child3)
