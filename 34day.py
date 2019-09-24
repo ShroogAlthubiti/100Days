@@ -4,7 +4,7 @@ def my_function (name):
 name=["Shroog", "Ali", "Ahmad"]
 my_function(name)
 
-def muliply (num):
+def multiply (num):
 	return 5*num
 print(muliply(5))
 print(muliply(6))
